@@ -1,19 +1,22 @@
 body{
   text-align: center;
-  background-image: url("images/stl.jpeg");
+  background-color: #C0C0C0
 
 }
 
 h2{
   color: crimson;
 }
-
-body{
-  background-color: pink;
-}
 h1{
   color: royalblue;
 }
 li{
   color: blue;
+}
+nav{
+  display:inline-block;
+}
+ul>li{
+  text-align: center;
+
 }
